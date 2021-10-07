@@ -1,2 +1,5 @@
 # hello-world
-This is my starter Repository
+
+Hello 
+
+this is Thomas form Bochum.
